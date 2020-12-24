@@ -1,8 +1,14 @@
 {
   "awesome_intro": {
     "sounds": [
-        "nothingtoseeheremovealong:banana/bananana",
-        "nothingtoseeheremovealong:banana/banananana"
+      {
+        "name": "nothingtoseeheremovealong:banana/bananana",
+        "stream": true
+      },
+      {
+        "name": "nothingtoseeheremovealong:banana/banananana",
+        "stream": true
+      }
     ]
   }
 }
